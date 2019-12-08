@@ -1,0 +1,71 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+}
+
+.sidenav .mat-toolbar {
+  background: inherit;
+}
+
+.mat-toolbar, .mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: rgb(241, 241, 241) !important;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+mat-toolbar a {
+  text-decoration: none;
+  color: rgb(37, 37, 37);
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.toolbarWideDiv{
+  background: rgb(241, 241, 241) !important;
+}
+
+mat-toolbar {
+  height: 110px !important;
+  
+}
+
+.flag {
+  height: 25px;
+  width: 25px;
+}
+
+.french {
+  background-image: url('../../assets/french-flag.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.english {
+  background-image: url('../../assets/british-flag.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.romanian {
+  background-image: url('../../assets/romanian-flag.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
+@media (max-width: 600px){
+  .hiddenMobileScreen{
+    display: none;
+  }
+}
