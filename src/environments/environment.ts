@@ -6,6 +6,9 @@ export const environment = {
   production: false
 };
 
+
+// THIS IS A TEST SINCE ADDING FILE TO GIT IGNORE
+
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
