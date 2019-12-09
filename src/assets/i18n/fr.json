@@ -1,13 +1,13 @@
 {
   "toolbar": {
       "option1": "Accueil",
-      "option2": "Services & Tarifs",
+      "option2": "Services",
       "option3" : "Contact"
   },
 
   "presentation": {
-    "header": "Présentation du docteur Laura Ivan",
-    "p1": "Le docteur Laura Ivan, chirurgien-dentiste, vous reçoit dans son cabinet au 4 rue Chateauneuf à Nice du lundi au vendredi.",
+    "header": " Votre chirurgien dentiste...",
+    "p1": "Le docteur Laura Ivan vous reçoit dans son cabinet au 4 rue Chateauneuf à Nice du lundi au vendredi.",
     "p2": "Au cours des six dernières années, le docteur Ivan a obtenu les diplômes prestigieux de Warwick University et de l'Université d'Oxford. Elle a également obtenu un diplôme d'esthétique du visage à Londres.",
     "p3": "Notre philosophie est d'offrir des soins dentaires sans douleur, dans une atmosphère détendue et plaisante pour nos patients.",
     "p4": "Le bien-être de nos patients est au coeur de nos préoccupations, nous nous assurons de leur donner le meilleur service possible.",

@@ -10,6 +10,10 @@
   background: inherit;
 }
 
+.mat-icon-button {
+  color: black;
+}
+
 .mat-toolbar, .mat-primary {
   position: sticky;
   top: 0;
@@ -35,6 +39,10 @@ mat-toolbar a {
 mat-toolbar {
   height: 110px !important;
   
+}
+
+.logo-name {
+  width: 400px;
 }
 
 .flag {
@@ -63,9 +71,24 @@ mat-toolbar {
   background-size: cover;
 }
 
+@media (max-width: 800px){
+  .logo-name {
+    width: 300px;
+  }
+}
 
 @media (max-width: 600px){
   .hiddenMobileScreen{
     display: none;
+  }
+
+  .flag {
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 410px){
+  .logo-name {
+    width: 200px;
   }
 }

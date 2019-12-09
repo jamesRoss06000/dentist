@@ -1,13 +1,13 @@
 {
   "toolbar": {
-      "option1": "Home",
-      "option2": "Services & Tarifs",
-      "option3" : "Contact"
+      "option1": "Ro Home",
+      "option2": "Ro Services",
+      "option3" : "Ro Contact"
   },
 
   "presentation": {
     "header": "Présentation of doctor Laura Ivan",
-    "p1": "Dr. Laura Ivan, dental surgeon, welcomes you to her office at 4 rue Chateauneuf in Nice from Monday to Friday.",
+    "p1": "Dr. Laura Ivan welcomes you to her office at 4 rue Chateauneuf in Nice from Monday to Friday.",
     "p2": "Over the past six years, Dr. Ivan has obtained prestigious degrees from Warwick University and Oxford University. She also obtained a diploma in facial aesthetics in London.",
     "p3": "Our philosophy is to offer painless dental care in a relaxed and pleasant atmosphere for our patients.",
     "p4": "The well-being of our patients is at the heart of our concerns, we make sure to give them the best possible service.",
