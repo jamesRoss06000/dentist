@@ -1,0 +1,21 @@
+.myCol-5 {
+  width: 40%;
+}
+
+.myCol-7 {
+  width: 60%;
+}
+
+@media (max-width: 600px){
+  .myFlex{
+    flex-direction: column-reverse;
+  }
+
+  .myCol-5 {
+    width: 100%;
+  }
+  
+  .myCol-7 {
+    width: 100%;
+  }
+}
