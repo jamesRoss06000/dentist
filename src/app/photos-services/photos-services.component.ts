@@ -7,10 +7,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PhotosServicesComponent implements OnInit {
   images = [
-    "../assets/serviceImage1.PNG",
-    "../assets/serviceImage2.PNG",
-    "../assets/serviceImage3.PNG",
-    "../assets/serviceImage4.PNG"
+    "../assets/images/serviceImage1.PNG",
+    "../assets/images/serviceImage2.PNG",
+    "../assets/images/serviceImage3.PNG",
+    "../assets/images/serviceImage4.PNG"
   ];
 
   constructor() { }

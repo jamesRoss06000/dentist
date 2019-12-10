@@ -51,21 +51,21 @@ mat-toolbar {
 }
 
 .french {
-  background-image: url('../../assets/french-flag.png');
+  background-image: url('../../assets/images/french-flag.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .english {
-  background-image: url('../../assets/british-flag.png');
+  background-image: url('../../assets/images/british-flag.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .romanian {
-  background-image: url('../../assets/romanian-flag.png');
+  background-image: url('../../assets/images/romanian-flag.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
